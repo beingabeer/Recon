@@ -1,2 +1,2 @@
-# site-scan
+# Recon
 Website Scanner written in Python
